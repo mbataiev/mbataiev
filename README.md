@@ -50,14 +50,10 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## 📈 GitHub Stats
-<div id="stat" style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbataiev&theme=github_dark"/>
-  </div>
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbataiev&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbataiev&theme=github_dark"/>
-  </div>
+<div id="stat" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbataiev&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbataiev&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbataiev&theme=github_dark"/>
 </div>
 
 ## 🏆 GitHub Trophies
