@@ -41,14 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 
-## 📫 Get in Touch
-
-I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me via:
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
 ## 📈 GitHub Stats
 <div id="stat" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbataiev&theme=github_dark"/>
